@@ -20,6 +20,10 @@ namespace Estoque
             Console.WriteLine("Iniciou a classe Produto através de seu método Construtor");
         }
 
+        ~Produto()//destructor
+        { 
+        
+        }
         /*public void setNome (string nome_produto)
         {
             this.nome_produto = nome_produto;
