@@ -17,7 +17,7 @@ namespace Estoque
 
         public Produto() //metodo construtor
         {
-            Console.WriteLine("Iniciou a classe Produto atravéz de seu método Construtor");
+            Console.WriteLine("Iniciou a classe Produto através de seu método Construtor");
         }
 
         /*public void setNome (string nome_produto)
